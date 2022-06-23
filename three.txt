@@ -1,2 +1,3 @@
 thee 
-everything is on hub, now i am changing in three.txt from remote means from hub 
+everything is on hub, now i am changing in three.txt from remote means from hub [git fetch and git merge korle local file e change ta dekha jabe]
+if i change again and now i am changing in three.txt from remote and with pull command it will do the dame thing as fetch and merge done before. 
